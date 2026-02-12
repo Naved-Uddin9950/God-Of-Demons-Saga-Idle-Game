@@ -1,7 +1,23 @@
 {
   "short_name": "God Of Demons Saga",
   "name": "God Of Demons Saga",
-  "icons": [],
+  "icons": [
+    {
+      "src": "/src/assets/images/demon_lord.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/images/demon_god.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/images/demon_god.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
